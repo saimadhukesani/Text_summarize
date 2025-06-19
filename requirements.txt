@@ -1,0 +1,5 @@
+validators==0.35.0
+youtube_transcript_api
+pytube
+unstructured
+langchain_community
