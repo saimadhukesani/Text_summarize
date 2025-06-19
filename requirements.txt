@@ -3,3 +3,4 @@ youtube_transcript_api
 pytube
 unstructured
 langchain_community
+langchain_groq
